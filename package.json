@@ -1,5 +1,5 @@
 {
-  "name": "reddit-clone",
+  "name": "Reddit clone server",
   "version": "0.0.1",
   "description": "Reddit Clone",
   "main": "index.js",
