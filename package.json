@@ -1,0 +1,24 @@
+{
+  "name": "reddit-clone",
+  "version": "0.0.1",
+  "description": "Reddit Clone",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanDez/reddit-clone.git"
+  },
+  "keywords": [],
+  "author": "Jaifran Hernández",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JanDez/reddit-clone/issues"
+  },
+  "homepage": "https://github.com/JanDez/reddit-clone#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.5",
+    "typescript": "^4.4.4"
+  }
+}
